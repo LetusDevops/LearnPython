@@ -92,5 +92,9 @@ The motive of this tasks to help you understand what dictionary is and how to tr
 
 So most of the times you make any API call which are core tasks of devops automation you get the data as these dictionaries so having understanding of these will be very handy. 
 
+Online Problems to attempt:
+1. [Default Dict](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
+2. [Write a Function](https://www.hackerrank.com/challenges/write-a-function/problem) This is a medium question so its ok if you are not able to solve it. 
+
 ###Thats it for day 2.
 ### ALL THE BEST!
