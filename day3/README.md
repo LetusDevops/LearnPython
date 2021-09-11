@@ -2,7 +2,7 @@
 
 ### Day 3: Data format conversions, JSON <-> DICT, XML <-> DICT and regex in Python. 
 
-Why JSON and XML to dict? 
+####Why JSON and XML to dict? 
 
 Whenever you make a request to get any data you will get the data as JSON or XML or provide the data in any of these formats. So its important to understand how the coversion between these works.
 
@@ -78,6 +78,9 @@ TLSv1.2 ECDHE-RSA-CHACHA20-POLY1305 6.6.6.6 "Mozilla/5.0 (Linux; U; Android 5.0.
 ```
 
 Solve it with first string manipulation and then regex. 
+You can read these article for help: 
+* [Log Parsing using regex](https://www.learnsteps.com/log-parsing-in-python-using-regular-expressions/)
+* [Log Parsing using String manipulation](https://www.learnsteps.com/log-parsing-in-python-read-how-you-can-do-it/)
 
 This is a very important question in terms of DevOps interviews. You can get it at lot of interviews it Visa, Cred, Linkedin, etc.
 
