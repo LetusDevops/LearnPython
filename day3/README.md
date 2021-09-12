@@ -50,7 +50,7 @@ a_dict = [
             {
             "name": "Saitama",
             "friend_points": 128,
-            "enemies": ["Naruto", "gara", "boruto] 
+            "enemies": ["Naruto", "gara", "boruto"] 
             }
         ]
     }
