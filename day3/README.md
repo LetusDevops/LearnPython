@@ -2,7 +2,7 @@
 
 ### Day 3: Data format conversions, JSON <-> DICT, XML <-> DICT and regex in Python. 
 
-####Why JSON and XML to dict? 
+#### Why JSON and XML to dict? 
 
 Whenever you make a request to get any data you will get the data as JSON or XML or provide the data in any of these formats. So its important to understand how the coversion between these works.
 
