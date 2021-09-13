@@ -2,9 +2,9 @@
 
 Here we will try to learn python day-by-day and going through some programs and then implement them. 
 
-1. [Day1](https://github.com/LetusDevops/LearnPython/tree/main/day1)
-2. [Day2](https://github.com/LetusDevops/LearnPython/tree/main/day2)
-3. [Day3](https://github.com/LetusDevops/LearnPython/tree/main/day3)
+1. [Day1](day1/README.md)
+2. [Day2](day2/README.md)
+3. [Day3](day3/README.md)
 
 # Contributing
 
@@ -18,7 +18,7 @@ Please note we have a code of conduct, please follow it in all your interactions
    build.
 2. Update the README.md with details of changes to the interface, this includes new environment
    variables, exposed ports, useful file locations and container parameters.
-4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you
+3. You may merge the Pull Request in once you have the sign-off of two other developers, or if you
    do not have permission to do that, you may request the second reviewer to merge it for you.
 
 ## Code of Conduct
