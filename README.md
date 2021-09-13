@@ -3,7 +3,8 @@
 Here we will try to learn python day-by-day and going through some programs and then implement them. 
 
 1. [Day1](https://github.com/LetusDevops/LearnPython/tree/main/day1)
-2. comming soon...
+2. [Day2](https://github.com/LetusDevops/LearnPython/tree/main/day2)
+3. [Day3](https://github.com/LetusDevops/LearnPython/tree/main/day3)
 
 # Contributing
 
