@@ -8,7 +8,7 @@ Whenever you make a request to get any data you will get the data as JSON or XML
 
 Since you understood dictionaries in the last lesson. If you are able to convert the data in dictionary, you will be able to operate on it. 
 
-### Task 1: Convert a dictionary object to JSON and then convert it back to JSON. Do the same with XML. 
+### Task 1: Convert a dictionary object to JSON and then convert it back to dictionary. Do the same with XML. 
 
 You can use json and xmltodict modules for accomplishing the above tasks. You can use the below object:
 ```
