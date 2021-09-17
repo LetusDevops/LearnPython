@@ -17,7 +17,7 @@ print(data.text)
 ```
 Here it will print the google.com website data as text. But when we call apis we get JSON mostly as data. 
 
-
+To learn more about [Requests](https://docs.python-requests.org/en/latest/).
 
 Now in our day 2 and day 3 we understood about dictionaries json and xml. If you have not you can go through this video.  
 [Youtube video on dictionaries](https://www.youtube.com/watch?v=mKmX25HFUmQ&list=PLhqPDa2HoaAZN9pG0cUugTmgAddRtF3zK&index=8&ab_channel=LetUsDevOps)
