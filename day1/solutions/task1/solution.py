@@ -1,4 +1,4 @@
-# Solution for day1 task1
+# Solution for task1 day1
 
 # Initializing a string
 course = "Learn python with LetUsDevOps"
