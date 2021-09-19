@@ -10,18 +10,17 @@ def calculate_sum(*args):
     print("Type of *args : ", type(args))
     sum = 0
     print("Given Elements: ", args)
-#All arguments passed to function are converted into tuple by default.
+
     for passed_number in args:
         sum += int(passed_number)
     return(sum)
 
 numbers = (map(int,input("Enter the of numbers: ").split()))
 print("Sum of elements : ", calculate_sum(*numbers))
-string  = input("Enter string : ")
 
+string  = input("Enter string : ")
 print("Printing string  as it is: ", string)
 
-#It is printing string with space after every character
 print("Printing string using *args :", *string)
 
 """
