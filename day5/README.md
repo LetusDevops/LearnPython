@@ -11,7 +11,7 @@ You can also read more about memory management in Python.
 
 #### Learn how you can open a file read the content. 
 1. Whole content at once. 
-2. Read it line by line. This is very important as you cannot 
+2. Read it line by line. This is very important as you cannot read very large files at once.
 
 #### Write to a file
 1. Normal Mode
