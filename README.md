@@ -9,6 +9,7 @@ Here we will try to learn python day-by-day and going through some programs and 
 5. [Day5](day5/README.md)
 6. [Day6](day6/README.md)
 7. [Day7](day7/README.md)
+8. [Day8](day8/README.md)
 
 # Contributing
 
